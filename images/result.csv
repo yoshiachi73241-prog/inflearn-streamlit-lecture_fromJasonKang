@@ -1,0 +1,5 @@
+﻿file,category,confidence,summary
+sample_tv.jpg,얼룩/번짐,0.85,화면 아래쪽에서 얼룩 또는 번짐 현상이 관찰됩니다.
+sample_tv3.jpg,밝기불균일,0.85,화면의 밝기가 고르지 않으며 특정 부분에서 흐림 현상이 나타납니다.
+sample_tv2.jpg,점불량,0.85,화면에 작은 점이 나타나고 있어 점불량으로 판단됩니다.
+sample_tv4.png,정상,0.9,화면이 균일한 색상으로 정상 상태입니다.
